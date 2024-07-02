@@ -850,6 +850,7 @@
   .pop-up-radio-button-space {
     display: flex;
     margin-top: 10px;
+    margin-bottom: 30px;
   }
 
   .pop-up-radio-button-holder {
